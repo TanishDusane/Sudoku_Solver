@@ -1,6 +1,16 @@
-# Sudoku Solver Game in Java
+
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C5612AQG5NioRDNF1QQ/article-cover_image-shrink_423_752/0/1520161409336?e=1702512000&v=beta&t=qp_lwGdG0Mh1gz3e9Qlebt8-lcebUvoul221c4gv0eY" alt="Image Alt Text">
+</p>
+
+
 
 Welcome to the Sudoku Solver Game in Java! This program allows you to play Sudoku, check your moves, find solutions, reset the game, and exit when you're done.
+
+<img src="https://preview.redd.it/23a8zelgygx41.gif?width=600&auto=webp&s=0be55b04eb6582e69fc8b150c00b4e6c1d6286a8" alt="Image Alt Text" align="right" width="400" height="400">
+
+<br>
 
 ## Features
 
